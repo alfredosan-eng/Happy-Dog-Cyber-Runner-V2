@@ -1,5 +1,11 @@
 # 🐕 Happy Dog Cyber Runner V2
 
+<p align="center">
+  <a href="https://alfredosan-eng.github.io/Happy-Dog-Cyber-Runner-V2/">
+    <img src="https://img.shields.io/badge/🎮%20PLAY%20GAME-Open%20Online-34A853?style=for-the-badge" alt="Play Happy Dog Cyber Runner V2">
+  </a>
+</p>
+
 > Run • Collect • Survive • Repeat
 
 A colorful arcade runner evolved from the original **Happy Dog Cyber Runner**.
